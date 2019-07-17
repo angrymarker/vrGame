@@ -1,0 +1,288 @@
+{
+	"bottles": [{
+			"category": "Vodka",
+			"name": "Ivan's Vodka",
+			"thumbnail": "vodka-russian.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Very strong vodka.\nSmells like cigarettes.",
+			"abv": 38,
+			"added-flavors": []
+		},
+		{
+			"category": "Vodka",
+			"name": "Aeki Vodka",
+			"thumbnail": "vodka-swedish.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Light Vodka.\nTastes like meatballs.",
+			"abv": 40,
+			"added-flavors": []
+		},
+		{
+			"category": "Vodka",
+			"name": "Romantic Vodka",
+			"thumbnail": "vodka-french.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Medium vodka.\nFeels like it's given up.",
+			"abv": 37.5,
+			"added-flavors": []
+		},
+		{
+			"category": "Vodka",
+			"name": "Not Your Neighbor's Vodka",
+			"thumbnail": "vodka-polish.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Robust Vodka.\nAfraid of it's neighbors.",
+			"abv": 37.5,
+			"added-flavors": []
+		},
+		{
+			"category": "Vodka",
+			"name": "Freedom Vodka",
+			"thumbnail": "vodka-usa.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Light Vodka.\nDon't let it see oil.",
+			"abv": 37.5,
+			"added-flavors": []
+		},
+		{
+			"category": "Gin",
+			"name": "London Dry Gin",
+			"thumbnail": "gin-london_dry.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Carefully distilled dry gin.\nOr was it arbitrarily?",
+			"abv": 37.5,
+			"added-flavors": []
+		},
+		{
+			"category": "Gin",
+			"name": "Plymouth Gin",
+			"thumbnail": "gin-plymouth.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Gin that claims to taste better when made in a certain area.\nIs there really a difference?",
+			"abv": 41.2,
+			"added-flavors": []
+		},
+		{
+			"category": "Gin",
+			"name": "Windmill Gin",
+			"thumbnail": "gin-dutch.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Flavorful Gin.\nSeems more like a scotch than a gin.",
+			"abv": 40,
+			"added-flavors": []
+		},
+		{
+			"category": "Gin",
+			"name": "International Gin",
+			"thumbnail": "gin-international.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Sweet Gin.\nLooks kinda cheap.",
+			"abv": 46,
+			"added-flavors": []
+		},
+		{
+			"category": "Whiskey",
+			"name": "Scotch",
+			"thumbnail": "whiskey-scotch.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Strong Scotch.\nWhat is this weird symbol?",
+			"abv": 63.5,
+			"added-flavors": []
+		},
+		{
+			"category": "Whiskey",
+			"name": "Whiskey in the Rye",
+			"thumbnail": "whiskey-rye.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Made mostly from rye.\nThis bottle feels kinda phony.",
+			"abv": 43,
+			"added-flavors": []
+		},
+		{
+			"category": "Whiskey",
+			"name": "Malt Whiskey",
+			"thumbnail": "whiskey-malt.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Malted Whiskey.\nDoesn't smell like a milkshake to me.",
+			"abv": 45,
+			"added-flavors": []
+		},
+		{
+			"category": "Whiskey",
+			"name": "Leprechaun's Whiskey",
+			"thumbnail": "whiskey-irish.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Green looking whiskey.\nLeprechauns give me nightmares.",
+			"abv": 60,
+			"added-flavors": []
+		},
+		{
+			"category": "Whiskey",
+			"name": "Blended Whiskey",
+			"thumbnail": "whiskey-blended.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Many whiskeys mixed together.\nReminds me of how ${master} smelled late at night.",
+			"abv": 55,
+			"added-flavors": []
+		},
+		{
+			"category": "Whiskey",
+			"name": "Bourbon",
+			"thumbnail": "whiskey-bourbon.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Made mostly from corn.\nA shot of this has less calories than a banana.",
+			"abv": 45,
+			"added-flavors": []
+		},
+		{
+			"category": "Whiskey",
+			"name": "Marker Whisky",
+			"thumbnail": "whisky.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Whiskey, but without the e.\nIs there even a difference?",
+			"abv": 1,
+			"added-flavors": []
+		},
+		{
+			"category": "Whiskey",
+			"name": "Marker Whiskey",
+			"thumbnail": "whiskey.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Regular whiskey. There's some rocks stuck to it.",
+			"abv": 1,
+			"added-flavors": []
+		},
+		{
+			"category": "Rum",
+			"name": "White Rum",
+			"thumbnail": "rum-white.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Light and white rum.\nTake that Rousseau!",
+			"abv": 1,
+			"added-flavors": []
+		},
+		{
+			"category": "Rum",
+			"name": "Medium Rum",
+			"thumbnail": "rum-medium.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Medium rum.\nDoesn't let you see into the future.",
+			"abv": 1,
+			"added-flavors": []
+		},
+		{
+			"category": "Rum",
+			"name": "Full Rum",
+			"thumbnail": "rum-full.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "alcoholic",
+			"abv": 1,
+			"added-flavors": []
+		},
+		{
+			"category": "Rum",
+			"name": "Spiced Rum",
+			"thumbnail": "rum-spiced.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "Spiced rum.\nThe bottle says \"You have to drink it's friends before you drink this.\"",
+			"abv": 1,
+			"added-flavors": []
+		},
+		{
+			"category": "Tequila",
+			"name": "Blue Agave Tequila",
+			"thumbnail": "tequila-blue_agave.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "alcoholic",
+			"abv": 1,
+			"added-flavors": []
+		},
+		{
+			"category": "Tequila",
+			"name": "Blanco Tequila",
+			"thumbnail": "tequila-blanco.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "alcoholic",
+			"abv": 1,
+			"added-flavors": []
+		},
+		{
+			"category": "Tequila",
+			"name": "Gold Tequila",
+			"thumbnail": "tequila-gold.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "alcoholic",
+			"abv": 1,
+			"added-flavors": []
+		},
+		{
+			"category": "Tequila",
+			"name": "Reposado Tequila",
+			"thumbnail": "tequila-reposado.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "alcoholic",
+			"abv": 1,
+			"added-flavors": []
+		}, {
+			"category": "Tequila",
+			"name": "Anejo Tequila",
+			"thumbnail": "tequila-anejo.jpg",
+			"ingredientqty": "500",
+			"denominator": "ml",
+			"quantity": 1,
+			"description": "alcoholic",
+			"abv": 1,
+			"added-flavors": []
+		}
+	]
+}
